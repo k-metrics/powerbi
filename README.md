@@ -9,20 +9,28 @@ Power BI
 
 ## Aboout Power BI Desktop
 
-Power BI DesktopはマイクロソフトのBI（Business Intelligence）製品です。その特徴は  
+Power BI DesktopはマイクロソフトのBI（Business
+Intelligence）製品です。その特徴は  
 　
 
-> Power
-> BIは、データを視覚化して、組織全体で洞察を共有し、アプリやWebサイトにその洞察を埋め込むことができるビジネス分析ソリューションです。数百ものデータソースに接続し、ライブダッシュボードおよびレポートでデータを活用します。
-> [出典](https://powerbi.microsoft.com/ja-jp/what-is-power-bi/)
+<!-- > Power BIは、データを視覚化して、組織全体で洞察を共有し、アプリやWebサイトにその洞察を埋め込むことができるビジネス分析ソリューションです。数百ものデータソースに接続し、ライブダッシュボードおよびレポートでデータを活用します。 [出典](https://powerbi.microsoft.com/ja-jp/what-is-power-bi/){target="_blank" title="Microsoft Power BI"}  -->
+
+> Power BI Desktop はローカル
+> コンピューターにインストールできる無料のアプリケーションであり、データへの接続、変換、および視覚化を行うことができるアプリケーションです。
+> Power BI Desktop を使用すると、複数の異なるデータ ソースに接続し、それらを組み合わせてデータ モデルに変換し
+> (しばしばモデル化と呼ばれます)、変換後のデータ
+> モデルを使用して、組織内の他のユーザーとレポートとして共有できるビジュアルやビジュアルのコレクションを作成できます。
+> Business Intelligence プロジェクトに取り組んでいるほとんどのユーザーは、Power BI Desktop
+> を使用してレポートを作成した後、Power BI
+> サービスを使用して、レポートを他のユーザーと共有します。　[出典](https://docs.microsoft.com/ja-jp/power-bi/desktop-what-is-desktop)
 
 　  
-Power BIは複数のリリース形態がありますが
-[Desktop版](https://powerbi.microsoft.com/ja-jp/desktop/)
+[Power BI Desktop版](https://powerbi.microsoft.com/ja-jp/desktop/)
 であればフリーで使えインタラクティブな環境でデータの分析と可視化ができます。また、RやPythonとの連携が可能で、外部IDEとしてRStudio
-Desktopの利用が可能なため使い慣れた開発環境で連携のためのスクリプトを記述することができます。  
+Desktopの利用が可能なため使い慣れた開発環境でスクリプトを記述することができます。  
+　  
 [Kibana](https://www.elastic.co/jp/products/kibana)
-は敷居が高いというような方に向いています。  
+は敷居が高いな…というような方に向いています。  
 　
 
 # License
